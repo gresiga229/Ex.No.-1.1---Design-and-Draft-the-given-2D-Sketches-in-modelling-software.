@@ -15,9 +15,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 1. Open Fusion 360, create new design
   <img width="830" height="627" alt="Screenshot 2026-11-11 204637" src="https://github.com/user-attachments/assets/a1f5188b-c43a-42d1-bfff-2f2de3f6489c" />
+
 2.Create a sketch on xy plane
+
 3. Draw vertical and horizontal construction lines through origin
-4. 
+4.  
 5. <img width="388" height="240" alt="Screenshot 2026-11-11 205255" src="https://github.com/user-attachments/assets/eba6feb8-e07d-4155-bffe-c4492ac1a238" />
 
 6. Draw centre circle of Ø66 at origin.
