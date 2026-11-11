@@ -66,8 +66,15 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 24. Save the sketch and finish sketch.
 25.<img width="520" height="262" alt="Screenshot 2026-11-11 210010" src="https://github.com/user-attachments/assets/9791940a-7639-40fa-a031-1c8d45f2c2a1" />
+
 <img width="436" height="421" alt="Screenshot 2026-11-11 210017" src="https://github.com/user-attachments/assets/a785d542-4179-44ec-bbcc-154a54ac257f" />
 
+26.Click Excrude
+
+<img width="460" height="617" alt="Screenshot 2026-11-11 212828" src="https://github.com/user-attachments/assets/08a72cd3-e613-471b-9b3c-96e8cd5cebd4" />
+
+27.
+<img width="727" height="677" alt="Screenshot 2026-11-11 212822" src="https://github.com/user-attachments/assets/79de4d4a-2c57-4ce7-b768-6cc6efc292ed" />
 
 
 ## SKETCHS
